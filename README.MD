@@ -13,7 +13,7 @@ NOTE:
 Simply, run gui.py file and choose your target directory that contain photos then click blue button 'WYKONAJ'.
 After process is done your directory with edited photos should open automatically.
 
-##Requirements
+## Requirements
 * Python 3.6+
     - OpenCV 
     - Tkinter
